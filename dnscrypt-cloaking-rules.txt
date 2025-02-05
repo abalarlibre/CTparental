@@ -1,0 +1,15 @@
+www.google.*  forcesafesearch.google.com
+www.youtube.com          restrictmoderate.youtube.com
+m.youtube.com            restrictmoderate.youtube.com
+youtubei.googleapis.com  restrictmoderate.youtube.com
+youtube.googleapis.com   restrictmoderate.youtube.com
+www.youtube-nocookie.com restrictmoderate.youtube.com
+*.bing.com             strict.bing.com
+=duckduckgo.com 127.0.0.11
+=duckduckgo.com fd00::127:11
+www.qwant.com 127.0.0.11
+www.qwant.com fd00::127:11
+admin.ct.local 127.0.0.11
+admin.ct.local fd00::127:11
+privet.ct.local 127.0.0.10
+privet.ct.local fd00::127:10

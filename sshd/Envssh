@@ -1,0 +1,5 @@
+# Default settings for openssh-server (CTparentalSshd). 
+# Options to pass to sshd
+SSHD_OPTS=
+
+
